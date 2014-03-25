@@ -1,5 +1,3 @@
-package com.enymind.audio;
-
 import java.util.ArrayList;
 import java.util.List;
 import javax.sound.sampled.AudioSystem;

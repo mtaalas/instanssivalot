@@ -1,5 +1,3 @@
-package com.enymind.audio;
-
 import edu.emory.mathcs.jtransforms.fft.DoubleFFT_1D;
 import java.util.Arrays;
 import javax.sound.sampled.TargetDataLine;
